@@ -2,7 +2,7 @@
 - 👀 I’m interested in bot programming 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Discord Developers community
-- 📫 Add me on Discord! DisAlpaca#1295
+- 📫 Add me on Discord! disalpa#6970
 
 <!---
 DisAlpaca/DisAlpaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
